@@ -94,23 +94,27 @@ Technologies Used
 * Data Visualization: matplotlib, seaborn
 * Python Proficiency: Functions, classes, modules organization
 
-Project Structure
-├── data/
-│   ├── telco_customer_churn.csv
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_customer_segmentation.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 05_model_evaluation.ipynb
-│   └── 05_Final_complete_churn_analysis.ipynb
-├── src/
-│   ├── custom_transformers.py
-│   ├── evaluate_model.py
-│   ├── feature_addition.py
-│   ├── feature_engineering.py
-│   └── kmeans_clusters.py
-├── README.md
-└── requirements.txt
+# Project Structure  
+**data/**
+- telco_customer_churn.csv  
+
+**notebooks/**
+- 01_data_preprocessing.ipynb  
+- 02_customer_segmentation.ipynb  
+- 03_feature_engineering.ipynb
+- 05_model_evaluation.ipynb
+- 05_Final_complete_churn_analysis.ipynb
+
+**src/**
+- custom_transformers.py
+- evaluate_model.py
+- feature_addition.py
+- feature_engineering.py
+- kmeans_clusters.py
+
+ **README.md**  
+ **requirements.txt**
+
 
 # Getting Started
 ## Prerequisites
